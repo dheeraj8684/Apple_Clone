@@ -1,2 +1,1 @@
-# Apple_Clone
-Parallax-Scrolling-Effects
+# Apple-Clone
